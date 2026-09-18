@@ -33,7 +33,7 @@ https://github.com/fdivitto/FabGL
 ![VGATextColor_2](https://github.com/guidol70/RC2014_ESP32_Z80_Emulator_VGA32/blob/main/Pictures/ESP32Z80_VGAText_2.jpg)
 
 - Notes / Problems at this time:
-  - Breakpoint GPIO-Switches sw1(26) & sw2 (27) may be incorect or non free GPIOs
+  - Breakpoint GPIO-Switches sw1(26) & sw2 (27) may be incorrect or non free GPIOs
   - Config of Keyboard and Screen-Color via .ino because I had to use FabGL TextController
     instead the VGA16-Controller (got Problems to get the SDCard to init)
   - Does hang/freeze when exiting Wordstar 3.30 / 4.00 with the X-command
